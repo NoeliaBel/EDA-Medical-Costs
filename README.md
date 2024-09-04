@@ -1,4 +1,4 @@
-# EDA-Medical-Insurance-Claims-Prediction 📊📈
+# EDA-Medical-Costs 📊📈
 Exploratory Data Analysis of Factors Influencing Medical Costs.
 
 ![2024-09-01 18_40_49-960x0 jpg (711×474) - Brave](https://github.com/user-attachments/assets/0d1d04c0-1282-4386-97b9-2aa5dcce798d)
